@@ -3,7 +3,7 @@
 ## Översikt
 **Total tid:** ~4 timmar  
 **Del 1:** Individuell (1.5 timme) - Lokalt arbete och grundläggande Git  
-**Del 2:**Par-programmering (2.5 timmar) - Samarbete via GitHub med Pull Requests
+**Del 2:** Par-programmering (2.5 timmar) - Samarbete via GitHub med Pull Requests
 
 ---
 
